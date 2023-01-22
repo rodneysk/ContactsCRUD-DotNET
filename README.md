@@ -16,11 +16,11 @@
 * [Agradecimento](#agradecimento)
 
 # Sobre
-Comecei a estudar C# e .NET e para colocar meus conhecimentos em prática fiz o meu primeiro CRUD de um formulário de clientes e seus veículos, algo bem simples! No entanto pensando já num problema real, onde meu tio alugará vagas de garagem num terreno adquirido recentemente. 
+Comecei a estudar C# e .NET e para colocar meus conhecimentos em prática fiz o meu primeiro CRUD (cadastrar, listar, alterar ou excluir registros) de um formulário de clientes e seus veículos, algo bem simples! No entanto pensando já num problema real, onde meu tio alugará vagas de garagem num terreno adquirido recentemente. 
 
-A versão 1.0 está pronta e é bem simples! Apenas um CRUD, podendo cadastrar, alterar, excluir ou listar as informações principais dos clientes (nome, endereço, telefone, email e data de cadastro) e seus veículos (marca, modelo, placa e se o veículo possui seguro), onde pude reforçar o conhecimento aprendido. 
+A versão 1.0 está pronta! Consite num CRUD com as informações principais dos clientes (nome, endereço, telefone, email e data de cadastro) e seus veículos (marca, modelo, placa e se o veículo possui seguro), onde pude reforçar o conhecimento aprendido. 
 
-Na versão 2.0 quero acrescentar popups de confirmação ao realizar o CRUD, acrescentar uma tela inicial com validação de login, calcular o valor de aluguel dos clientes na hora do cadastro e também poder disponibilizar relatório financeiro dos clientes/aluguéis.
+Na versão 2.0 quero acrescentar pop-ups de confirmação ao realizar o CRUD, acrescentar uma tela inicial com validação de login, calcular o valor de aluguel dos clientes na hora do cadastro e também poder disponibilizar relatório financeiro dos clientes/aluguéis.
 
 # Funcionalidades
 
@@ -28,7 +28,7 @@ Na versão 2.0 quero acrescentar popups de confirmação ao realizar o CRUD, acr
 - [ ] Calcular o valor do aluguel de acordo com o cadastro do cliente
 - [ ] Disponibilizar relatório financeiro dos aluguéis
 - [ ] Validação de login administrativo
-- [ ] Popous ao realizar o CRUD
+- [ ] Pop-ups ao realizar o CRUD
 
 <p align="center">
   <img width="320" heigth="320" src="/Images/gif_project.gif">
